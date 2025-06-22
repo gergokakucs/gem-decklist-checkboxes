@@ -23,6 +23,6 @@ To use this script:
 Please note:
 * The checkboxes will disappear after the page is refreshed or reloaded!
 * Checking/unchecking the checkboxes does not affect the player’s decklist in any way or mark the deck as reviewed in GEM.
-* This process must be repeated for each new decklistyou want to check.  
+* This process must be repeated for each new decklist you want to check.  
 
 Feel free to share, use or improve the script — may it serve you well!
