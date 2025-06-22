@@ -4,12 +4,19 @@ This is a small javascript code, that simply adds checkboxes to the deck registr
 
 To use this script:
 1.        Go to the deck details page.
+
 2.        Click Print -> this will take you to a deck registration sheet.
+
 3.        Open Inspect (Right click + inspect, or see this tutorial for more info: https://zapier.com/blog/inspect-element-tutorial/)
+
 4.        In the inspect tool, go to the Console tab.
+
 5.        Paste the provided script inside the console and press enter.
+
 6.        The checkboxes should appear.
+
 7.        You can now close the inspect tool.
+
 
 
 Please note:
