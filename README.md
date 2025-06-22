@@ -3,6 +3,7 @@
 This is a small javascript code, that simply adds checkboxes to the deck registration sheet, making it possible to check cards one at a time.
 
 To use this script:
+
 1.        Go to the deck details page.
 
 2.        Click Print -> this will take you to a deck registration sheet.
